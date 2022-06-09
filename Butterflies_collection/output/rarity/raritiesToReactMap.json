@@ -1,0 +1,148 @@
+[
+    {
+        "attribute": "Background",
+        "items": [
+            {
+                "name": "Green",
+                "stock": 0,
+                "total": 17,
+                "percentage": 0.0,
+                "rarity": "Not created",
+                "color": "#000000",
+                "path": "assets/0-background/1-green.png"
+            },
+            {
+                "name": "Pink",
+                "stock": 2,
+                "total": 17,
+                "percentage": 11.76,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/0-background/2-pink.png"
+            },
+            {
+                "name": "Purple",
+                "stock": 7,
+                "total": 17,
+                "percentage": 41.16,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/0-background/3-purple.png"
+            },
+            {
+                "name": "Green2",
+                "stock": 8,
+                "total": 17,
+                "percentage": 47.04,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/0-background/4-green2.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Butterfly Body",
+        "items": [
+            {
+                "name": "Earthworm",
+                "stock": 17,
+                "total": 17,
+                "percentage": 99.96,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/3-butterfly_body/1-earthworm.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Butterfly Head",
+        "items": [
+            {
+                "name": "Blue",
+                "stock": 2,
+                "total": 17,
+                "percentage": 11.76,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/4-butterfly_head/1-blue.png"
+            },
+            {
+                "name": "Poited",
+                "stock": 3,
+                "total": 17,
+                "percentage": 17.64,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/4-butterfly_head/2-poited.png"
+            },
+            {
+                "name": "Brown",
+                "stock": 4,
+                "total": 17,
+                "percentage": 23.52,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/4-butterfly_head/3-brown.png"
+            },
+            {
+                "name": "Crown",
+                "stock": 4,
+                "total": 17,
+                "percentage": 23.52,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/4-butterfly_head/4-crown.png"
+            },
+            {
+                "name": "Hat",
+                "stock": 4,
+                "total": 17,
+                "percentage": 23.52,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/4-butterfly_head/5-hat.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Butterfly Wing",
+        "items": [
+            {
+                "name": "Princess",
+                "stock": 4,
+                "total": 17,
+                "percentage": 23.52,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/5-butterfly_wing/1-princess.png"
+            },
+            {
+                "name": "Funny",
+                "stock": 4,
+                "total": 17,
+                "percentage": 23.52,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/5-butterfly_wing/2-funny.png"
+            },
+            {
+                "name": "Stars",
+                "stock": 4,
+                "total": 17,
+                "percentage": 23.52,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/5-butterfly_wing/4-stars.png"
+            },
+            {
+                "name": "Orange",
+                "stock": 5,
+                "total": 17,
+                "percentage": 29.4,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/5-butterfly_wing/3-orange.png"
+            }
+        ]
+    }
+]

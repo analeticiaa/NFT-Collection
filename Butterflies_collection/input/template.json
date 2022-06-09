@@ -1,0 +1,35 @@
+{
+    "name": "Cute Butterflies",
+    "symbol": "CB",
+    "description": "Butterflies",
+    "seller_fee_basis_points": 250,
+    "image": "image.png",
+    "attributes": 
+    [
+    ],
+    "collection":
+    {
+        "name": "Cute Butterflies",
+        "family": "Butterflies"
+    },
+    "properties":
+    {
+        "files":
+        [
+            {
+                "uri": "image.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators":
+        [
+            {
+                "address": "0xe470355f79914D60101B0d24F808BC721507fe2f",
+                "share": 100
+            }
+        ]
+    }
+}
+
+

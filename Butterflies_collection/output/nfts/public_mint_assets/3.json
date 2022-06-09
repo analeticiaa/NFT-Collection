@@ -1,0 +1,44 @@
+{
+    "name": "Cute Butterflies #1",
+    "symbol": "CB",
+    "description": "Butterflies",
+    "seller_fee_basis_points": 250,
+    "image": "3.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green2"
+        },
+        {
+            "trait_type": "Butterfly Body",
+            "value": "Earthworm"
+        },
+        {
+            "trait_type": "Butterfly Head",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Butterfly Wing",
+            "value": "Funny"
+        }
+    ],
+    "collection": {
+        "name": "Cute Butterflies",
+        "family": "Butterflies"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "3.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "0xe470355f79914D60101B0d24F808BC721507fe2f",
+                "share": 100
+            }
+        ]
+    }
+}

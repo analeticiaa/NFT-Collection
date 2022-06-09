@@ -1,0 +1,325 @@
+[
+    {
+        "name": "Cute Butterflies #10",
+        "attributes_count": 4,
+        "items": [
+            {
+                "Background": "Purple"
+            },
+            {
+                "Butterfly Body": "Earthworm"
+            },
+            {
+                "Butterfly Head": "Crown"
+            },
+            {
+                "Butterfly Wing": "Stars"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Butterflies #17",
+        "attributes_count": 4,
+        "items": [
+            {
+                "Background": "Purple"
+            },
+            {
+                "Butterfly Body": "Earthworm"
+            },
+            {
+                "Butterfly Head": "Brown"
+            },
+            {
+                "Butterfly Wing": "Orange"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Butterflies #11",
+        "attributes_count": 4,
+        "items": [
+            {
+                "Background": "Green2"
+            },
+            {
+                "Butterfly Body": "Earthworm"
+            },
+            {
+                "Butterfly Head": "Crown"
+            },
+            {
+                "Butterfly Wing": "Princess"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Butterflies #1",
+        "attributes_count": 4,
+        "items": [
+            {
+                "Background": "Green2"
+            },
+            {
+                "Butterfly Body": "Earthworm"
+            },
+            {
+                "Butterfly Head": "Blue"
+            },
+            {
+                "Butterfly Wing": "Funny"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Butterflies #8",
+        "attributes_count": 4,
+        "items": [
+            {
+                "Background": "Green2"
+            },
+            {
+                "Butterfly Body": "Earthworm"
+            },
+            {
+                "Butterfly Head": "Brown"
+            },
+            {
+                "Butterfly Wing": "Princess"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Butterflies #15",
+        "attributes_count": 4,
+        "items": [
+            {
+                "Background": "Pink"
+            },
+            {
+                "Butterfly Body": "Earthworm"
+            },
+            {
+                "Butterfly Head": "Poited"
+            },
+            {
+                "Butterfly Wing": "Stars"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Butterflies #5",
+        "attributes_count": 4,
+        "items": [
+            {
+                "Background": "Pink"
+            },
+            {
+                "Butterfly Body": "Earthworm"
+            },
+            {
+                "Butterfly Head": "Hat"
+            },
+            {
+                "Butterfly Wing": "Funny"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Butterflies #9",
+        "attributes_count": 4,
+        "items": [
+            {
+                "Background": "Green2"
+            },
+            {
+                "Butterfly Body": "Earthworm"
+            },
+            {
+                "Butterfly Head": "Brown"
+            },
+            {
+                "Butterfly Wing": "Funny"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Butterflies #6",
+        "attributes_count": 4,
+        "items": [
+            {
+                "Background": "Green2"
+            },
+            {
+                "Butterfly Body": "Earthworm"
+            },
+            {
+                "Butterfly Head": "Hat"
+            },
+            {
+                "Butterfly Wing": "Orange"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Butterflies #14",
+        "attributes_count": 4,
+        "items": [
+            {
+                "Background": "Purple"
+            },
+            {
+                "Butterfly Body": "Earthworm"
+            },
+            {
+                "Butterfly Head": "Crown"
+            },
+            {
+                "Butterfly Wing": "Funny"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Butterflies #12",
+        "attributes_count": 4,
+        "items": [
+            {
+                "Background": "Purple"
+            },
+            {
+                "Butterfly Body": "Earthworm"
+            },
+            {
+                "Butterfly Head": "Blue"
+            },
+            {
+                "Butterfly Wing": "Orange"
+            }
+        ],
+        "folder": "whitelist_mint_assets"
+    },
+    {
+        "name": "Cute Butterflies #16",
+        "attributes_count": 4,
+        "items": [
+            {
+                "Background": "Green2"
+            },
+            {
+                "Butterfly Body": "Earthworm"
+            },
+            {
+                "Butterfly Head": "Poited"
+            },
+            {
+                "Butterfly Wing": "Princess"
+            }
+        ],
+        "folder": "whitelist_mint_assets"
+    },
+    {
+        "name": "Cute Butterflies #13",
+        "attributes_count": 4,
+        "items": [
+            {
+                "Background": "Purple"
+            },
+            {
+                "Butterfly Body": "Earthworm"
+            },
+            {
+                "Butterfly Head": "Crown"
+            },
+            {
+                "Butterfly Wing": "Orange"
+            }
+        ],
+        "folder": "whitelist_mint_assets"
+    },
+    {
+        "name": "Cute Butterflies #7",
+        "attributes_count": 4,
+        "items": [
+            {
+                "Background": "Purple"
+            },
+            {
+                "Butterfly Body": "Earthworm"
+            },
+            {
+                "Butterfly Head": "Brown"
+            },
+            {
+                "Butterfly Wing": "Stars"
+            }
+        ],
+        "folder": "whitelist_mint_assets"
+    },
+    {
+        "name": "Cute Butterflies #3",
+        "attributes_count": 4,
+        "items": [
+            {
+                "Background": "Green2"
+            },
+            {
+                "Butterfly Body": "Earthworm"
+            },
+            {
+                "Butterfly Head": "Hat"
+            },
+            {
+                "Butterfly Wing": "Stars"
+            }
+        ],
+        "folder": "whitelist_mint_assets"
+    },
+    {
+        "name": "Cute Butterflies #4",
+        "attributes_count": 4,
+        "items": [
+            {
+                "Background": "Green2"
+            },
+            {
+                "Butterfly Body": "Earthworm"
+            },
+            {
+                "Butterfly Head": "Hat"
+            },
+            {
+                "Butterfly Wing": "Princess"
+            }
+        ],
+        "folder": "whitelist_mint_assets"
+    },
+    {
+        "name": "Cute Butterflies #2",
+        "attributes_count": 4,
+        "items": [
+            {
+                "Background": "Purple"
+            },
+            {
+                "Butterfly Body": "Earthworm"
+            },
+            {
+                "Butterfly Head": "Poited"
+            },
+            {
+                "Butterfly Wing": "Orange"
+            }
+        ],
+        "folder": "whitelist_mint_assets"
+    }
+]
